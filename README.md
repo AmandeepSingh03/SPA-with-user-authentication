@@ -1,6 +1,9 @@
-In the project directory, you can run:
+In the project directory,
 
-go inside auth app folder then
+first thing to do is
+go inside auth0 app folder then
+
+when your are inside that folder then run:
 
 `npm install` 
 Install all the dependencies required.
