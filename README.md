@@ -5,6 +5,12 @@ go inside auth app folder then
 `npm install` 
 Install all the dependencies required.
 
+go to the website of Auth0 
+create your account and then add the client id and your domain 
+
+go to application in Auth0 site
+add "http://localhost:3000" in allowed call back URLs
+
 `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
