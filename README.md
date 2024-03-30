@@ -6,7 +6,7 @@ go inside auth app folder then
 Install all the dependencies required.
 
 go to the website of Auth0 
-create your account and then add the client id and your domain 
+create your account and then add the client id and your domain in auth_config.json
 
 go to application in Auth0 site
 add "http://localhost:3000" in allowed call back URLs
